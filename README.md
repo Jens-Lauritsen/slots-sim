@@ -62,9 +62,8 @@ Her er slutsaldoen for alle 10.000 spillere, sat op som et histogram. Massen af 
 
 Casinoet gambler ikke. De designer specifikt deres produkter til at holde din opmærksomhed mest muligt, og du vil ALTID tabe over tid.
 
-## Kilder — Beviser, Ikke Påstande
+## Teori som er brugt
 
-Teori som er brugt:
 
 | Hvad                            | Hvem                             |
 | ------------------------------- | -------------------------------- |
